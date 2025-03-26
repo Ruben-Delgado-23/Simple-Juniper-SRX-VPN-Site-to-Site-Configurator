@@ -41,7 +41,8 @@ docker run -p 5000:5000 vpn-configurator
 
 ## 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/918a3b4f-4abb-4323-a5e0-b8c3a3861f41)
-![image](https://github.com/user-attachments/assets/40effdb6-424e-400c-ae7f-b55ae28ec274)
+
+![image](https://github.com/user-attachments/assets/138b3594-7f20-444b-a769-4be1b2445114)
 
 ## 🙌 Author
 
