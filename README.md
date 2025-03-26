@@ -24,7 +24,7 @@ This tool allows you to input a few key VPN parameters using a guided web form a
 ## 🚀 How to Run (Locally)
 
 ```bash
-git clone https://github.com/your-username/vpn-configurator.git
+git clone https://github.com/Ruben-Delgado-23/Simple-Juniper-SRX-VPN-Site-to-Site-Configurator
 cd vpn-configurator
 pip install -r requirements.txt
 python app.py
