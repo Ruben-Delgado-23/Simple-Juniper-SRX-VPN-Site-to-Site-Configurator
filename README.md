@@ -12,7 +12,7 @@ This tool allows you to input a few key VPN parameters using a guided web form a
 - ✅ Standard IPSec proposals and policies
 - ✅ VPN tunnel configuration
 - ✅ Tunnel interface and static routing
-  ✅ No nat policy if required
+- ✅ No nat policy if required
 
 ## 💻 Technologies Used
 
